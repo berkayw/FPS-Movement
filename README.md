@@ -1,6 +1,6 @@
 # FPS-Movement
-Rigidbody Based FPS Character Controller
+# Rigidbody Based FPS Character Controller
 
+https://github.com/berkayw/FPS-Movement/assets/72252419/da9f9dae-ae7d-4bcf-ab79-f8a4ea374678
 
-https://github.com/berkayw/FPS-Movement/assets/72252419/11667917-cd59-46f3-ace7-db1fc3f44bfd
 
